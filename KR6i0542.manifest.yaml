@@ -34,9 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0542_000.yaml, hash: 'sha256:ce3eb47b6618df0f9dea56ce19c3e2f32aed1bb35131f33d958045ea50d7f908'}
-  - {seq: 1, filename: KR6i0542_001.yaml, hash: 'sha256:c36bcb0a6382369c3997275d5796626d927354a32002b3cb4f46920c0ab6ee41'}
+  - {seq: 1, filename: KR6i0542_001.yaml, hash: 'sha256:c3770d2771642277174bf01007a61ee13b2b4e8917cb6d5711e92926d6a50a09'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0542_001.markers.yaml, hash: 'sha256:c04c52c4866251dc4c3218394125fdaa01d99cabfcfd5c4c88b828fda691a91a'}
+  - {seq: 0, role: markers, filename: assets/KR6i0542_000.markers.yaml, hash: 'sha256:c3f6fce877fc0fcbfbdbd4cfa84b902593db8809c695e3f1cf46b58b3e59f902'}
+  - {seq: 1, role: markers, filename: assets/KR6i0542_001.markers.yaml, hash: 'sha256:939581792ceebddca87cc7d09a3b62ccdf7e29b070a19a1436555a222317787d'}
 table_of_contents:
 - ref:
     seq: 1
@@ -48,7 +49,4 @@ table_of_contents:
   label: 大方廣師子吼經
   type: juan
   level: 1
-hash: sha256:e9e93a4735e1da2faf9e7015dbde5a0b66b0702d2abf288d266bfa02be113fba
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:ce63bf041ecba49e653a3117c91e4527dd9ab2010f90c3fd6779c391985202ee
